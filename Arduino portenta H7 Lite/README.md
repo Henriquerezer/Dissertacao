@@ -9,6 +9,8 @@ O processador principal do Portenta H7 Lite é o dual core STM32H747 incluindo u
 * MicroPython / JavaScript através de um interpretador
 * TensorFlow™ Lite
 
+Arduino store: https://store-usa.arduino.cc/products/portenta-h7-lite?selectedStore=us
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/87787728/175650962-e308e1c7-c03d-4dee-841c-fdad39bac776.jpg" width="700px" />
 </div>
