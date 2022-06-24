@@ -9,10 +9,7 @@ O processador principal do Portenta H7 Lite é o dual core STM32H747 incluindo u
 * MicroPython / JavaScript através de um interpretador
 * TensorFlow™ Lite
 
-Arduino store: https://store-usa.arduino.cc/products/portenta-h7-lite?selectedStore=us
-
-Datasheet Portenta H7: https://content.arduino.cc/assets/Datasheet-Portenta-H7.pdf?_gl=1*1sio87y*_ga*MTUwMDc0NzIxLjE2NTYwOTM3MTQ.*_ga_NEXN8H46L5*MTY1NjA5MzcxOS4xLjEuMTY1NjA5MzkwMi41Mw..
-Datasheet processador (STM32H747xI/G): https://content.arduino.cc/assets/Arduino-Portenta-H7_Datasheet_stm32h747xi.pdf?_gl=1*2yvvgf*_ga*MTUwMDc0NzIxLjE2NTYwOTM3MTQ.*_ga_NEXN8H46L5*MTY1NjA5MzcxOS4xLjEuMTY1NjA5MzkzMy4yMg..
+[Arduino store](https://store-usa.arduino.cc/products/portenta-h7-lite?selectedStore=us) | [Datasheet Portenta H7](https://content.arduino.cc/assets/Datasheet-Portenta-H7.pdf?_gl=1*1sio87y*_ga*MTUwMDc0NzIxLjE2NTYwOTM3MTQ.*_ga_NEXN8H46L5*MTY1NjA5MzcxOS4xLjEuMTY1NjA5MzkwMi41Mw..) | [Datasheet processador (STM32H747xI/G)](https://content.arduino.cc/assets/Arduino-Portenta-H7_Datasheet_stm32h747xi.pdf?_gl=1*2yvvgf*_ga*MTUwMDc0NzIxLjE2NTYwOTM3MTQ.*_ga_NEXN8H46L5*MTY1NjA5MzcxOS4xLjEuMTY1NjA5MzkzMy4yMg..)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/87787728/175650962-e308e1c7-c03d-4dee-841c-fdad39bac776.jpg" width="700px" />
